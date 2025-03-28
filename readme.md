@@ -22,11 +22,7 @@ You can view the live demo of the Recipe App [here](#).
 
    ![Recipe Details](assets/Screenshot3.png)
 
-**3.Recipe Details Popup**  
-
-   ![Recipe Details](assets/Screenshot3.png)
-
-**3.Responsive Design**  
+**4.Responsive Design**  
 
    ![Responsive Design](assets/Screenshot4.png)
 
