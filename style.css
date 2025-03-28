@@ -5,13 +5,15 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Body Styling */
 body {
     background: linear-gradient(135deg, #fff5e6, #ffe8cc); /* Warm, food-inspired gradient */
     color: #333; /* Dark text for readability */
-    overflow-y: auto;
-    height: 100vh;
+    overflow-y: auto; /* Ensure body scrollbar appears */
+    min-height: 100vh; /* Use min-height instead of fixed height */
 }
 
+/* Header Styling */
 header nav {
     background: linear-gradient(135deg, #ff7f50, #ff4500); /* Vibrant orange gradient */
     padding: 20px;
@@ -68,7 +70,7 @@ button[type="submit"]:hover {
     transform: translateY(-2px); /* Slight lift on hover */
 }
 
-/* Main section */
+/* Main Section */
 .recipe-container {
     text-align: center;
     display: grid;
@@ -213,8 +215,8 @@ button[type="submit"]:hover {
     background-color: #ff4500;
     color: #fff;
     position: absolute;
-    top: 20px;
-    right: 20px;
+    top: 6px;
+    right: 6px;
     width: 30px;
     height: 30px;
     display: flex;
@@ -260,6 +262,39 @@ body::-webkit-scrollbar-thumb {
 
 body::-webkit-scrollbar-track {
     background: #fff5e6;
+}
+
+/* Responsive Scrollbar Adjustments */
+@media screen and (max-width: 768px) {
+    body::-webkit-scrollbar {
+        width: 8px; /* Slimmer scrollbar for smaller screens */
+    }
+
+    body::-webkit-scrollbar-thumb {
+        background: #ff7f50; /* Orange scrollbar thumb */
+        border-radius: 8px; /* Rounded corners */
+    }
+
+    body::-webkit-scrollbar-track {
+        background: #fff5e6; /* Light track */
+        border-radius: 8px; /* Rounded corners */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body::-webkit-scrollbar {
+        width: 6px; /* Slimmer scrollbar for very small screens */
+    }
+
+    body::-webkit-scrollbar-thumb {
+        background: #ff7f50; /* Orange scrollbar thumb */
+        border-radius: 6px; /* Rounded corners */
+    }
+
+    body::-webkit-scrollbar-track {
+        background: #fff5e6; /* Light track */
+        border-radius: 6px; /* Rounded corners */
+    }
 }
 
 /* Responsive Code */
