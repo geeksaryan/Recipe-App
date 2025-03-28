@@ -2,26 +2,29 @@
 
 The **Recipe App** is a web-based application that allows users to search for recipes by meal name. It fetches data from the [TheMealDB API](https://www.themealdb.com/) and displays detailed information about recipes, including ingredients, instructions, and meal categories. The app provides an interactive and user-friendly interface for food enthusiasts to explore and learn new recipes.
 
----
 
 ## 🌐 Live Demo
 
 You can view the live demo of the Recipe App [here](#).
 
----
 
 ## 📸 Screenshot
 
-1. **Home Page**  
-   ![Home Page](assets/screenshot1.png)
+**1.Home Page** 
 
-2. **Search Results**  
-   ![Search Results](assets/screenshot2.png)
+   ![Home Page](assets/Screenshot1.png)
 
-3. **Recipe Details Popup**  
-   ![Recipe Details](assets/screenshot3.png)
+**2.Search Results**  
 
----
+   ![Search Results](assets/Screenshot2.png)
+
+**3.Recipe Details Popup**  
+
+   ![Recipe Details](assets/Screenshot3.png)
+
+**3.Responsive Design**  
+
+   ![Responsive Design](assets/Screenshot4.png)
 
 ## 🌟 Features
 
@@ -40,7 +43,6 @@ You can view the live demo of the Recipe App [here](#).
 - **Interactive UI**:  
   Smooth animations and hover effects enhance the user experience.
 
----
 
 ## 📖 How It Works
 
@@ -55,7 +57,6 @@ You can view the live demo of the Recipe App [here](#).
 3. **Close Popup**:  
    - Users can close the recipe details popup by clicking the close button.
 
----
 
 ## 🛠️ Technologies Used
 
@@ -64,17 +65,14 @@ You can view the live demo of the Recipe App [here](#).
 - **JavaScript (ES6)**: For interactivity and API integration.
 - **TheMealDB API**: For fetching recipe data.
 
----
 
 ## 📂 Project Structure
 Recipe-App/ ├── index.html # Main HTML file for the application ├── style.css # CSS file for styling the app ├── script1.js # JavaScript file for functionality ├── assets/ # Folder containing images and other assets └── readme.md # Project documentation
 
----
 
 ## 🚀 How to Run the Project
 
 **1. Clone the Repository:**
-   ```bash
    git clone https://github.com/your-username/recipe-app.git
 **2. Navigate to the Project Directory:**
     cd recipe-app
