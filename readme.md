@@ -13,13 +13,13 @@ You can view the live demo of the Recipe App [here](#).
 ## 📸 Screenshot
 
 1. **Home Page**  
-   ![Home Page](assets/screenshot1.png)
+   ![Home Page](assets/Screenshot1.png)
 
 2. **Search Results**  
-   ![Search Results](assets/screenshot2.png)
+   ![Search Results](assets/Screenshot2.png)
 
 3. **Recipe Details Popup**  
-   ![Recipe Details](assets/screenshot3.png)
+   ![Recipe Details](assets/Screenshot3.png)
 
 ---
 
