@@ -16,6 +16,9 @@ You can view the live demo of the Recipe App [here](#).
 
 **2.Search Results**  
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
 
    ![Search Results](assets/Screenshot2.png)
 
@@ -23,6 +26,7 @@ You can view the live demo of the Recipe App [here](#).
 
    ![Recipe Details](assets/Screenshot3.png)
 
+<<<<<<< HEAD
 =======
 
    ![Search Results](assets/Screenshot2.png)
@@ -35,6 +39,11 @@ You can view the live demo of the Recipe App [here](#).
 
    ![Responsive Design](assets/Screenshot4.png)
 >>>>>>> f4cf81c (Updated README file)
+=======
+**3.Responsive Design**  
+
+   ![Responsive Design](assets/Screenshot4.png)
+>>>>>>> origin/main
 
 ## 🌟 Features
 
