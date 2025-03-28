@@ -15,21 +15,12 @@ You can view the live demo of the Recipe App [here](#).
    ![Home Page](assets/Screenshot1.png)
 
 **2.Search Results**  
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> origin/main
 
    ![Search Results](assets/Screenshot2.png)
 
 **3.Recipe Details Popup**  
 
    ![Recipe Details](assets/Screenshot3.png)
-
-<<<<<<< HEAD
-=======
-
-   ![Search Results](assets/Screenshot2.png)
 
 **3.Recipe Details Popup**  
 
@@ -38,12 +29,7 @@ You can view the live demo of the Recipe App [here](#).
 **3.Responsive Design**  
 
    ![Responsive Design](assets/Screenshot4.png)
->>>>>>> f4cf81c (Updated README file)
-=======
-**3.Responsive Design**  
 
-   ![Responsive Design](assets/Screenshot4.png)
->>>>>>> origin/main
 
 ## 🌟 Features
 
