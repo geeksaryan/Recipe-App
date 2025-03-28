@@ -2,13 +2,11 @@
 
 The **Recipe App** is a web-based application that allows users to search for recipes by meal name. It fetches data from the [TheMealDB API](https://www.themealdb.com/) and displays detailed information about recipes, including ingredients, instructions, and meal categories. The app provides an interactive and user-friendly interface for food enthusiasts to explore and learn new recipes.
 
----
 
 ## 🌐 Live Demo
 
 You can view the live demo of the Recipe App [here](#).
 
----
 
 ## 📸 Screenshot
 
@@ -21,7 +19,6 @@ You can view the live demo of the Recipe App [here](#).
 **3.Recipe Details Popup**  
    ![Recipe Details](assets/Screenshot3.png)
 
----
 
 ## 🌟 Features
 
@@ -40,7 +37,6 @@ You can view the live demo of the Recipe App [here](#).
 - **Interactive UI**:  
   Smooth animations and hover effects enhance the user experience.
 
----
 
 ## 📖 How It Works
 
@@ -55,7 +51,6 @@ You can view the live demo of the Recipe App [here](#).
 3. **Close Popup**:  
    - Users can close the recipe details popup by clicking the close button.
 
----
 
 ## 🛠️ Technologies Used
 
@@ -64,12 +59,10 @@ You can view the live demo of the Recipe App [here](#).
 - **JavaScript (ES6)**: For interactivity and API integration.
 - **TheMealDB API**: For fetching recipe data.
 
----
 
 ## 📂 Project Structure
 Recipe-App/ ├── index.html # Main HTML file for the application ├── style.css # CSS file for styling the app ├── script1.js # JavaScript file for functionality ├── assets/ # Folder containing images and other assets └── readme.md # Project documentation
 
----
 
 ## 🚀 How to Run the Project
 
